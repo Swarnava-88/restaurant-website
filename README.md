@@ -1,7 +1,7 @@
 Overview:
 
 
-the-epic-eclair.netlify.app
+https://the-epic-eclair.netlify.app/
 
 
 The Epic Eclair is a responsive restaurant website built using HTML and CSS.
