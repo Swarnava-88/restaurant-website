@@ -4,25 +4,25 @@ Overview:
 the-epic-eclair.netlify.app
 
 
-MOOBI MANIACS is a responsive movie ticket booking website built using HTML, CSS, and JavaScript. 
-The site allows users to browse top movies, select seats, view dynamic pricing, and confirm bookings—all within a clean and user-friendly interface.
+The Epic Eclair is a responsive restaurant website built using HTML and CSS.
+The website presents the restaurant’s brand, menu, and contact information through a clean, modern, and visually appealing design.
 
 
 Features:
 
-Movie listings with poster images and ticket prices
-Interactive seat selection (10 rows × 20 seats = 200 seats)
-Dynamic pricing based on number of selected seats
-Booking confirmation modal with generated QR code
-Responsive design for mobile, tablet, and desktop
-Footer with name, contact details, and social links (GitHub, LinkedIn)
+Home page with hero section and restaurant highlights
+About Us page describing the restaurant’s story and vision
+Menu page displaying food categories and pricing
+Order Now page (UI only – no backend functionality integrated)
+Contact Us page with contact details and inquiry form layout
+Fully responsive design for mobile, tablet, and desktop
+Clean and structured navigation across all pages
 
 
 Technologies Used:
 
 HTML
 CSS
-JavaScript (Vanilla)
 
 
 How to Use:
@@ -35,24 +35,29 @@ Select a movie, choose your seats, and confirm your booking
 Project Structure:
 
 bash
-index.html     # All website content and structure
-style.css      # Styling and responsive layout
-script.js      # JavaScript for interactivity and booking logic
+index.html      # Home page
+about.html      # About Us page
+menu.html       # Menu page
+order.html      # Order Now page (UI only)
+contact.html    # Contact Us page
+style.css       # Styling and responsive layout
 
 
 What I Learned:
 
-JavaScript DOM manipulation
-Event handling and UI updates
-Responsive layout with CSS
-Building real-world features like seat selection and QR code generation
+Structuring a multi-page website
+Creating consistent design and layout across pages
+Implementing responsive design using CSS
+Working with visual hierarchy, spacing, and typography
+Designing clean and user-friendly interfaces
 
 
 Future Enhancements:
 
-Add payment simulation
-Save user bookings using localStorage or backend
-Add user authentication and booking history
+Add working order functionality
+Integrate backend for form submission
+Add animations and interactive elements
+Implement an online reservation system
 
 
 Contact:
