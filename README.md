@@ -63,6 +63,6 @@ Implement an online reservation system
 Contact:
 
 Swarnava Bhattacharya
-Email: swarnavabhattacharya00@gmail.com
+Email: swarnavabhattacharya443@gmail.com
 Phone: +91-8420449287
 LinkedIn: www.linkedin.com/in/swarnava-bhattacharya
